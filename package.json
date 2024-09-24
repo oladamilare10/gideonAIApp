@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": ".",
   "scripts": {
     "dev": "vite",
     "predeploy": "npm run build",
@@ -12,6 +13,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "dreyacode_mail": "file:",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-just-parallax": "^3.1.16",
