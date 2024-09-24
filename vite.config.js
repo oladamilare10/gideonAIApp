@@ -7,4 +7,5 @@ import react from "@vitejs/plugin-react";
 export default defineConfig({
   base: "/gideonAIApp",
   plugins: [react()],
+  publicDir: "./assets",
 });
