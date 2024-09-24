@@ -9,8 +9,8 @@ View [Demo](https://late-hydrogen-loud.on-fleek.app/)
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/JavaScript-Mastery-Pro/threejscc-portfolio.git
-cd threejscc-portfolio
+git clone https://github.com/oladamilare10/gideonAIApp.git
+cd gideonAIApp
 ```
 
 **Installation**
@@ -19,6 +19,22 @@ Install the project dependencies using npm:
 
 ```bash
 npm install
+```
+
+**View Project**
+
+Start project server using npm:
+
+```bash
+npm run dev
+```
+
+**Deploy Project**
+
+Deploy project using npm:
+
+```bash
+npm run build
 ```
 
 Currently, two official plugins are available:
