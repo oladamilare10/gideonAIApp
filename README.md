@@ -1,5 +1,10 @@
-# React + Vite
+<!-- @format -->
 
+# Gideon AI Landing Page
+
+![alt text](image.png)
+
+View [Demo](https://late-hydrogen-loud.on-fleek.app/)
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
