@@ -5,7 +5,21 @@
 ![alt text](image.png)
 
 View [Demo](https://late-hydrogen-loud.on-fleek.app/)
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+**Cloning the Repository**
+
+```bash
+git clone https://github.com/JavaScript-Mastery-Pro/threejscc-portfolio.git
+cd threejscc-portfolio
+```
+
+**Installation**
+
+Install the project dependencies using npm:
+
+```bash
+npm install
+```
 
 Currently, two official plugins are available:
 
